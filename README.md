@@ -10,3 +10,5 @@ Actually, forget argh.
 * Initiate a Pull Requests from a topic branch
 * Create a single commit with `git merge --squash`
 * Rewriting history with `git rebase`
+
+Some change made by Jule
